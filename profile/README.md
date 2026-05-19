@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/GodsEyeGlobal/.github/main/assets/banner.png" width="100%" alt="GodsEye Banner"/>
+<img src="https://raw.githubusercontent.com/GodsEyeGlobal/.github/main/assets/banner.gif" width="100%" alt="GodsEye Banner"/>
 
 <br/>
 <br/>
