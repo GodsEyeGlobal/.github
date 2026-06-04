@@ -1,264 +1,278 @@
-<div align="center">
+# GodsEye Global
 
-<img src="https://raw.githubusercontent.com/GodsEyeGlobal/.github/main/assets/banner.png" width="100%" alt="GodsEye Banner"/>
+### Privacy is an illusion, we prove it every day.
 
-<br/>
-<br/>
+Building autonomous engineering systems, AI infrastructure, and next-generation runtime orchestration platforms.
 
-# GodsEye International
-
-### *privacy is an illusion, we prove it every day.*
-
-Experts in digital access and advanced information retrieval.
-
-<br/>
-
-<p align="center">
-  <a href="https://godseyeglobal.com">Website</a>
-  •
-  <a href="https://github.com/GodsEyeGlobal">Repositories</a>
-  •
-  <a href="https://discord.gg/">Discord</a>
-</p>
-
-<br/>
-
-<img src="https://img.shields.io/badge/runtime-autonomous-purple?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/platform-local--first-black?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/architecture-multi--agent-6f42c1?style=for-the-badge"/>
-
-</div>
+**Website:** https://godseyeglobal.com  
+**GitHub:** https://github.com/GodsEyeGlobal
 
 ---
 
-# About GodsEye
+# What is GodsEye?
 
-GodsEye is a local-first autonomous engineering platform focused on:
+GodsEye is a distributed ecosystem of platforms designed for autonomous software engineering, infrastructure orchestration, AI operations, and runtime execution.
 
-- autonomous software engineering
-- orchestrated AI runtimes
-- deterministic execution systems
-- safe isolated workspaces
-- structured agent collaboration
-- observability-driven infrastructure
-- runtime orchestration
+Rather than being a single application, GodsEye consists of multiple interconnected systems that work together to create a unified AI engineering environment.
 
-The platform is designed around one core principle:
+> Intelligence and execution should be independent systems.
 
-> **The orchestrator is the product.  
-> The models are assistants.**
+AI models reason.
+
+Runtime systems execute.
+
+Infrastructure remains observable, recoverable, and controllable.
 
 ---
 
-# Runtime Philosophy
+# Ecosystem Overview
 
-GodsEye is not designed as a chatbot toy.
+```text
+GE-WEB
+    ↓
+GE Dashboard
+    ↓
+GE VPS API
+    ↓
+GE Runtime
+    ↓
+Infrastructure
+```
 
-The runtime is built around:
+---
+
+# Core Platforms
+
+## GE-WEB
+
+Public-facing platform built with:
+
+- Next.js
+- React
+- TypeScript
+- Three.js
+- Framer Motion
+- TailwindCSS
+
+Responsibilities:
+
+- Product showcase
+- Architecture visualization
+- Documentation
+- User onboarding
+- Authentication entry point
+
+---
+
+## GE Dashboard
+
+Centralized control center for the GodsEye ecosystem.
+
+Manage:
+
+- VPS infrastructure
+- Runtime agents
+- Task execution
+- Remote terminals
+- Windows RDP services
+- Discord bots
+- Telemetry & monitoring
+
+---
+
+## GE VPS API
+
+Secure orchestration layer built with FastAPI.
+
+Responsibilities:
+
+- Authentication
+- Authorization
+- Task management
+- Agent coordination
+- Repository analysis
+- Execution control
+- State management
+- Retry & recovery handling
+
+---
+
+## GE Runtime
+
+Autonomous execution engine designed for software engineering workflows.
+
+Features:
+
+- Deterministic orchestration
+- Isolated workspaces
+- Build & test pipelines
+- Retry handling
+- Runtime context management
+- Structured logging
+- Checkpoint recovery
+- Agent execution
+
+---
+
+# Infrastructure Architecture
+
+## GES1
+
+**AI Inference Cluster**
+
+Host: `ges1.godseyeglobal.com`
+
+Responsibilities:
+
+- Ollama
+- Model serving
+- Context processing
+- Reasoning workloads
+- Token generation
+
+This cluster thinks.
+
+It does not execute tasks.
+
+---
+
+## GES2
+
+**Platform Operations Cluster**
+
+Host: `ges2.godseyeglobal.com`
+
+Responsibilities:
+
+- GE Dashboard
+- GE VPS API
+- GE Runtime
+- Workspace execution
+- Task orchestration
+- Monitoring services
+
+This cluster executes actions.
+
+---
+
+# AI Architecture
+
+## Kernal
+
+Architect / Reviewer
+
+Responsible for:
+
+- Planning
+- Architecture decisions
+- Debugging analysis
+- Validation
+- Review workflows
+
+---
+
+## Neura
+
+Builder / Implementer
+
+Responsible for:
+
+- Code generation
+- Refactoring
+- Patching
+- Repair workflows
+- Iterative implementation
+
+---
+
+# Engineering Workflow
 
 ```text
 PLAN
-→ CODE
-→ BUILD
-→ TEST
-→ REVIEW
-→ PATCH
-→ RETEST
-→ REPEAT
+ ↓
+CODE
+ ↓
+BUILD
+ ↓
+TEST
+ ↓
+REVIEW
+ ↓
+PATCH
+ ↓
+RETEST
+ ↓
+COMPLETE
 ```
-
-Every action is:
-
-- observable
-- recoverable
-- validated
-- checkpointed
-- orchestrator-controlled
 
 ---
 
 # Core Technologies
 
-<div align="center">
+## Backend
 
-| Runtime | Infrastructure | AI | Frontend |
-|---|---|---|---|
-| Python 3.12 | SQLite | Ollama | React |
-| FastAPI | GitPython | Kernal | Next.js |
-| asyncio | structlog | Neura | TypeScript |
-| Pydantic v2 | WebSockets | Multi-Agent Runtime | TailwindCSS |
+- Python
+- FastAPI
+- AsyncIO
+- Pydantic
+- SQLite
 
-</div>
+## AI
 
----
+- Ollama
+- Kernal
+- Neura
 
-# Architecture
+## Frontend
 
-```text
-User
-↓
-Dashboard/API
-↓
-FastAPI Backend
-↓
-Orchestrator Runtime
-↓
-Task Manager
-↓
-Agent Controller
-↓
-Kernal + Neura
-↓
-Workspace Sandbox
-↓
-Build/Test Runtime
-↓
-Git Checkpointing
-```
+- Next.js
+- React
+- TypeScript
+- TailwindCSS
+- Framer Motion
+- Three.js
+
+## Infrastructure
+
+- Docker
+- Git
+- Cloudflare
+- Vercel
 
 ---
 
-# Core Principles
+# Design Principles
 
-### Deterministic Orchestration
-AI agents never directly control execution.
+### Deterministic Execution
 
-### Safe Runtime Design
-All tooling is validated and workspace-bound.
+Agents never directly control infrastructure.
 
-### Isolated Workspaces
-Every task executes inside isolated environments.
+### Workspace Isolation
 
-### Structured Agent Contracts
-All outputs use validated schemas.
+Every task executes inside its own environment.
+
+### Structured Orchestration
+
+Execution follows validated workflows.
 
 ### Full Observability
-The runtime never silently hangs.
+
+Every action is logged, tracked, and recoverable.
+
+### Human Supervision
+
+Autonomy without losing control.
 
 ---
 
-# Current Runtime Status
+# Vision
 
-### Completed Foundations
+GodsEye is building a web-based autonomous engineering platform that combines infrastructure management, software development, AI orchestration, and runtime execution into a single ecosystem.
 
-- Structured logging runtime
-- Workspace isolation manager
-- Safe command execution
-- Filesystem tooling
-- Git checkpoint system
-- Task orchestration engine
-- Retry engine
-- Failure parser
-- Repository analyzer
-- Structured agent runtime
-- Ollama integration
-- Build/test runners
-
-### Active Development
-
-- Persistent orchestration layer
-- Automated repair loops
-- Multi-iteration patch runtime
-- Event persistence
-- Dashboard streaming
-- Runtime telemetry
+The goal is to create an environment where humans and AI collaborate through structured, observable, and recoverable workflows.
 
 ---
 
-# Repositories
+## One Ecosystem. Four Core Systems. Infinite Possibilities.
 
-| Repository | Purpose |
-|---|---|
-| `GodsAI-Planning` | Architecture, planning, runtime specifications |
-| `GodsEye` | Core runtime implementation |
-| `.github` | Organization profile & shared workflows |
-
----
-
-# Engineering Standards
-
-GodsEye focuses on:
-
-- reliability
-- maintainability
-- rollback safety
-- deterministic execution
-- structured iteration
-- runtime observability
-
-Avoiding:
-
-- fake autonomy
-- unrestricted execution
-- uncontrolled recursion
-- gimmick architectures
-
----
-
-# Runtime Models
-
-## Kernal
-Architect + Reviewer
-
-Responsible for:
-- architecture planning
-- debugging analysis
-- validation
-- review flows
-
----
-
-## Neura
-Implementation + Builder
-
-Responsible for:
-- scaffolding
-- patching
-- iteration
-- repair workflows
-
----
-
-# Development Roadmap
-
-### Phase 1
-Core Runtime Infrastructure
-
-### Phase 2
-Persistent Orchestration Runtime
-
-### Phase 3
-Advanced Context System
-
-### Phase 4
-Live Dashboard + Streaming Runtime
-
-### Phase 5
-Distributed Autonomous Engineering
-
----
-
-# Organization Links
-
-<div align="center">
-
-### 🌐 Website
-https://godseyeglobal.com
-
-### 📂 GitHub
-https://github.com/GodsEyeGlobal
-
-### 💬 Discord
-https://discord.gg/
-
-</div>
-
----
-
-<div align="center">
-
-## GodsEye International
-
-*Making information available to everyone.*
-
-</div>
+Built by GodsEye Global.
