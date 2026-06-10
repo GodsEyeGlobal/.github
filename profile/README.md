@@ -1,11 +1,9 @@
 <div align="center">
 
+
 ## Activity
 
-![Snake Animation](https://raw.githubusercontent.com/GodsEyeGlobal/.github/output/github-contribution-grid-snake-dark.svg)
-
-<br/>
-<br/>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=godseyeinternational&theme=github-dark)](https://github.com/godseyeinternational)
 
 # GodsEye International
 
