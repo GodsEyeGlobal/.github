@@ -85,7 +85,7 @@ Every action is:
 
 # Architecture
 
-```text
+
 User
 ↓
 Dashboard/API
@@ -105,7 +105,7 @@ Workspace Sandbox
 Build/Test Runtime
 ↓
 Git Checkpointing
-```
+
 
 ---
 
@@ -132,27 +132,27 @@ The runtime never silently hangs.
 
 ### Completed Foundations
 
-- Structured logging runtime
-- Workspace isolation manager
-- Safe command execution
-- Filesystem tooling
-- Git checkpoint system
-- Task orchestration engine
-- Retry engine
-- Failure parser
-- Repository analyzer
-- Structured agent runtime
-- Ollama integration
-- Build/test runners
+Structured logging runtime
+Workspace isolation manager
+Safe command execution
+Filesystem tooling
+Git checkpoint system
+Task orchestration engine
+Retry engine
+Failure parser
+Repository analyzer
+Structured agent runtime
+Ollama integration
+Build/test runners
 
 ### Active Development
 
-- Persistent orchestration layer
-- Automated repair loops
-- Multi-iteration patch runtime
-- Event persistence
-- Dashboard streaming
-- Runtime telemetry
+Persistent orchestration layer
+Automated repair loops
+Multi-iteration patch runtime
+Event persistence
+Dashboard streaming
+Runtime telemetry
 
 ---
 
@@ -170,19 +170,19 @@ The runtime never silently hangs.
 
 GodsEye focuses on:
 
-- reliability
-- maintainability
-- rollback safety
-- deterministic execution
-- structured iteration
-- runtime observability
+reliability
+maintainability
+rollback safety
+deterministic execution
+structured iteration
+runtime observability
 
 Avoiding:
 
-- fake autonomy
-- unrestricted execution
-- uncontrolled recursion
-- gimmick architectures
+fake autonomy
+unrestricted execution
+uncontrolled recursion
+gimmick architectures
 
 ---
 
@@ -192,10 +192,10 @@ Avoiding:
 Architect + Reviewer
 
 Responsible for:
-- architecture planning
-- debugging analysis
-- validation
-- review flows
+architecture planning
+debugging analysis
+validation
+review flows
 
 ---
 
@@ -203,10 +203,10 @@ Responsible for:
 Implementation + Builder
 
 Responsible for:
-- scaffolding
-- patching
-- iteration
-- repair workflows
+scaffolding
+patching
+iteration
+repair workflows
 
 ---
 
