@@ -1,10 +1,5 @@
 <div align="center">
 
-
-## Activity
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=godseyeinternational&theme=github-dark)](https://github.com/godseyeinternational)
-
 # GodsEye International
 
 ### *privacy is an illusion, we prove it every day.*
@@ -21,13 +16,9 @@ Experts in digital access and advanced information retrieval.
   <a href="https://discord.gg/">Discord</a>
 </p>
 
-<br/>
+## Activity
 
-<img src="https://img.shields.io/badge/runtime-autonomous-purple?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/platform-local--first-black?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/architecture-multi--agent-6f42c1?style=for-the-badge"/>
-
-</div>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=godseyeinternational&theme=github-dark)](https://github.com/godseyeinternational)
 
 ---
 
