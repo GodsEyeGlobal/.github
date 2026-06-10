@@ -14,8 +14,6 @@ Reliable VPS Hosting, Game Server Hosting and Discord Bot Hosting.
   <a href="#">Discord</a>
 </p>
 
-</div>
-
 ---
 
 ## Our Services
@@ -65,7 +63,7 @@ https://github.com/GodsEyeGlobal
 
 ### 💬 Discord
 Coming Soon
-
+</div>
 ---
 
 <div align="center">
