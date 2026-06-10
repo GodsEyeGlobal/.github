@@ -51,8 +51,8 @@ Whether you're deploying virtual servers, hosting gaming communities or running 
 
 Follow development progress, project updates and service announcements through our GitHub organization.
 
-### 🌐 Website
-https://godseyeglobal.com
+### 🌐 Website    📂 GitHub    💬 Discord
+https://godseyeglobal.com    https://github.com/GodsEyeGlobal    https://discord.gg/M3KtsyTdSf
 
 ### 📂 GitHub
 https://github.com/GodsEyeGlobal
