@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/GodsEyeGlobal/.github/main/assets/breakdown.png" width="100%" alt="GodsEye Breakdown"/>
+## Activity
+
+![Snake Animation](https://raw.githubusercontent.com/GodsEyeGlobal/.github/output/github-contribution-grid-snake-dark.svg)
 
 <br/>
 <br/>
