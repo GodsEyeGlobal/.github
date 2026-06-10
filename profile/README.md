@@ -8,9 +8,9 @@ Reliable VPS Hosting, Game Server Hosting and Discord Bot Hosting.
 
 <p align="center">
   <a href="https://godseyeglobal.com">Website</a>
-  •
+  
   <a href="https://github.com/GodsEyeGlobal">GitHub</a>
-  •
+  
   <a href="#">Discord</a>
 </p>
 
@@ -62,9 +62,9 @@ https://godseyeglobal.com
 https://github.com/GodsEyeGlobal
 
 ### 💬 Discord
-Coming Soon
+https://discord.gg/M3KtsyTdSf
 </div>
----
+
 
 <div align="center">
 
