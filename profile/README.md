@@ -51,20 +51,15 @@ Whether you're deploying virtual servers, hosting gaming communities or running 
 
 Follow development progress, project updates and service announcements through our GitHub organization.
 
-### 🌐 Website    📂 GitHub    💬 Discord
+### 🌐 Website  -  📂 GitHub  -  💬 Discord
 https://godseyeglobal.com    https://github.com/GodsEyeGlobal    https://discord.gg/M3KtsyTdSf
 
-### 📂 GitHub
-https://github.com/GodsEyeGlobal
-
-### 💬 Discord
-https://discord.gg/M3KtsyTdSf
 </div>
 
 
 <div align="center">
 
-**GodsEyeGlobal**
+# **GodsEyeGlobal**
 
 Reliable Hosting. Built for Growth.
 
