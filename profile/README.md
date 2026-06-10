@@ -50,7 +50,7 @@ Whether you're deploying virtual servers, hosting gaming communities or running 
 ## Community
 
 Follow development progress, project updates and service announcements through our GitHub organization.
-</div>
+
 ### 🌐 Website
 https://godseyeglobal.com
 
