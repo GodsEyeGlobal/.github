@@ -1,237 +1,61 @@
 <div align="center">
 
-# GodsEye International
+# GodsEyeGlobal
 
-### *privacy is an illusion, we prove it every day.*
+### High Performance Hosting Infrastructure
 
-Experts in digital access and advanced information retrieval.
-
-<br/>
+Reliable VPS Hosting, Game Server Hosting and Discord Bot Hosting.
 
 <p align="center">
   <a href="https://godseyeglobal.com">Website</a>
   •
-  <a href="https://github.com/GodsEyeGlobal">Repositories</a>
+  <a href="https://github.com/GodsEyeGlobal">GitHub</a>
   •
-  <a href="https://discord.gg/">Discord</a>
+  <a href="#">Discord</a>
 </p>
-
-## Activity
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=godseyeinternational&theme=github-dark)](https://github.com/godseyeinternational)
-
----
-
-# About GodsEye
-
-GodsEye is a local-first autonomous engineering platform focused on:
-
-- autonomous software engineering
-- orchestrated AI runtimes
-- deterministic execution systems
-- safe isolated workspaces
-- structured agent collaboration
-- observability-driven infrastructure
-- runtime orchestration
-
-The platform is designed around one core principle:
-
-> **The orchestrator is the product.  
-> The models are assistants.**
-
----
-
-# Runtime Philosophy
-
-GodsEye is not designed as a chatbot toy.
-
-The runtime is built around:
-
-```text
-PLAN
-→ CODE
-→ BUILD
-→ TEST
-→ REVIEW
-→ PATCH
-→ RETEST
-→ REPEAT
-```
-
-Every action is:
-
-- observable
-- recoverable
-- validated
-- checkpointed
-- orchestrator-controlled
-
----
-
-# Core Technologies
-
-<div align="center">
-
-| Runtime | Infrastructure | AI | Frontend |
-|---|---|---|---|
-| Python 3.12 | SQLite | Ollama | React |
-| FastAPI | GitPython | Kernal | Next.js |
-| asyncio | structlog | Neura | TypeScript |
-| Pydantic v2 | WebSockets | Multi-Agent Runtime | TailwindCSS |
 
 </div>
 
 ---
 
-# Architecture
+## Our Services
 
-```text
-User
-↓
-Dashboard/API
-↓
-FastAPI Backend
-↓
-Orchestrator Runtime
-↓
-Task Manager
-↓
-Agent Controller
-↓
-Kernal + Neura
-↓
-Workspace Sandbox
-↓
-Build/Test Runtime
-↓
-Git Checkpointing
-```
+- 🖥️ VPS Hosting
+- 🎮 Game Server Hosting
+- 🤖 Discord Bot Hosting
 
 ---
 
-# Core Principles
+## Development Activity
 
-### Deterministic Orchestration
-AI agents never directly control execution.
-
-### Safe Runtime Design
-All tooling is validated and workspace-bound.
-
-### Isolated Workspaces
-Every task executes inside isolated environments.
-
-### Structured Agent Contracts
-All outputs use validated schemas.
-
-### Full Observability
-The runtime never silently hangs.
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=godseyeinternational&theme=github-dark)](https://github.com/godseyeinternational)
 
 ---
 
-# Current Runtime Status
+## Why GodsEyeGlobal
 
-### Completed Foundations
+Built for performance, reliability and scalability.
 
-- Structured logging runtime
-- Workspace isolation manager
-- Safe command execution
-- Filesystem tooling
-- Git checkpoint system
-- Task orchestration engine
-- Retry engine
-- Failure parser
-- Repository analyzer
-- Structured agent runtime
-- Ollama integration
-- Build/test runners
+We focus on delivering dependable hosting solutions backed by continuous development, modern infrastructure and a commitment to long-term service quality.
 
-### Active Development
-
-- Persistent orchestration layer
-- Automated repair loops
-- Multi-iteration patch runtime
-- Event persistence
-- Dashboard streaming
-- Runtime telemetry
+Whether you're deploying virtual servers, hosting gaming communities or running production Discord bots, our platform is designed to provide the resources and stability required to grow.
 
 ---
 
-# Repositories
+## Projects
 
-| Repository | Purpose |
-|---|---|
-| `GodsAI-Planning` | Architecture, planning, runtime specifications |
-| `GodsEye` | Core runtime implementation |
-| `.github` | Organization profile & shared workflows |
-
----
-
-# Engineering Standards
-
-GodsEye focuses on:
-
-- reliability
-- maintainability
-- rollback safety
-- deterministic execution
-- structured iteration
-- runtime observability
-
-Avoiding:
-
-- fake autonomy
-- unrestricted execution
-- uncontrolled recursion
-- gimmick architectures
+| Project | Description |
+|----------|----------|
+| GEBilling | Customer platform and service management |
+| Infrastructure | Core hosting systems and automation |
+| Wiki | Documentation and knowledge base |
+| Status | Service monitoring and uptime reporting |
 
 ---
 
-# Runtime Models
+## Community
 
-## Kernal
-Architect + Reviewer
-
-Responsible for:
-- architecture planning
-- debugging analysis
-- validation
-- review flows
-
----
-
-## Neura
-Implementation + Builder
-
-Responsible for:
-- scaffolding
-- patching
-- iteration
-- repair workflows
-
----
-
-# Development Roadmap
-
-### Phase 1
-Core Runtime Infrastructure
-
-### Phase 2
-Persistent Orchestration Runtime
-
-### Phase 3
-Advanced Context System
-
-### Phase 4
-Live Dashboard + Streaming Runtime
-
-### Phase 5
-Distributed Autonomous Engineering
-
----
-
-# Organization Links
-
-<div align="center">
+Follow development progress, project updates and service announcements through our GitHub organization.
 
 ### 🌐 Website
 https://godseyeglobal.com
@@ -240,16 +64,14 @@ https://godseyeglobal.com
 https://github.com/GodsEyeGlobal
 
 ### 💬 Discord
-https://discord.gg/
-
-</div>
+Coming Soon
 
 ---
 
 <div align="center">
 
-## GodsEye International
+**GodsEyeGlobal**
 
-*Making information available to everyone.*
+Reliable Hosting. Built for Growth.
 
 </div>
